@@ -1,0 +1,44 @@
+Linguagem C - Luis Damas
+1
+
+Tecnologias de Compressao Multimedia - Torres, Ribeiro
+2
+
+Fundamentos de Programacao em Java 2
+3
+
+O Guia Pratico do Dreamweaver CS5 - Pedro Remoaldo
+4
+
+Engenharia de Redes Informaticas - Monteiro, Edmundo
+5
+
+UML - Metodologias e Ferramentas CASE - Silva, Videira
+6
+
+O Guia Pratico do Visual Basic 2010 - Vitor Pereira
+7
+
+Algoritmia e Estrut. de Dados - Vasconcelos, Carvalho
+8
+
+AutoCAD 2011 & AutoCAD LT 2011 - Jose Garcia
+9
+
+Arquitectura de Computadores - Ribeiro, Delgado
+10
+
+Programacao em C++ - Pimenta Rodrigues 
+11
+
+JAVA6 e Prog. Orientada p/ Objectivos - F. Martins 
+12
+
+Segurança em Redes Informaticas - Andre Zuquete 
+13
+
+Program., Algoritmos e Estruturas de Dados - J. Neto 
+14
+
+Matlab 7 & 6 - Vagner Morais, Claudio Vieira 
+15
